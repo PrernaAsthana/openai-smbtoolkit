@@ -56,7 +56,8 @@ This toolkit is designed for **low-code integration** by digital SMB platforms. 
 
 * ✅ Architecture and mock system sketch (2024)
 * 🔄 Public GitHub prototype (Q4 2024)
-* 📄 Whitepaper publication and API release (Q1 2025)
+* 📄 Whitepaper publication and API release (Q1 2025): [View the full whitepaper outline](docs/WHITEPAPER_OUTLINE.md)
+
 
 ---
 
