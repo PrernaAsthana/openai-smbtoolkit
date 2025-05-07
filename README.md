@@ -4,6 +4,18 @@ Welcome to the **OpenAI-SMBToolkit**, an open-access initiative to empower U.S.-
 
 ---
 
+## 📊 Project Status Tracker
+
+| Task | Status |
+|------|--------|
+| Architecture diagram published | ✅ Done |
+| Whitepaper outline created | ✅ Done |
+| Executive Order mapping added | ✅ Done |
+| NIST RMF mapping (in progress) | ⏳ In progress |
+| GitHub API prototype | 🔲 Planned |
+| First pilot deployment | 🔲 Target: Q2 2025 |
+
+
 ## 📌 Project Modules
 
 ### 1. Cohort-Based Recommender System
