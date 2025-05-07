@@ -64,6 +64,8 @@ This toolkit is designed for **low-code integration** by digital SMB platforms. 
 ## ⚖️ Governance & Ethics
 
 All modules follow NIST AI RMF and FTC guidelines for trustworthy AI, including transparency, explainability, and reproducibility.
+- [Executive Order Mapping (EO 14110)](docs/EXECUTIVE_ORDER_MAPPING.md)
+
 
 ---
 
