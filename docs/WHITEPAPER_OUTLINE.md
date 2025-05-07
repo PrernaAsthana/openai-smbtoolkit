@@ -1,7 +1,7 @@
 # Whitepaper Outline: Open Infrastructure for Secure Personalization and Ethical Experimentation in U.S. Digital Commerce
 
 **Author:** Prerna Asthana
-**Target Release:** Q1 2025
+**Target Release:** Q2 2025
 **Format:** PDF and HTML (GitHub-hosted)
 
 ---
@@ -66,8 +66,8 @@
 
 ## 6. Implementation Roadmap
 
-* Q4 2024: GitHub prototype release
-* Q1 2025: Whitepaper and API beta launch
+* Q1 2025: GitHub prototype release
+* Q2 2025: Whitepaper and API beta launch
 * Q2–Q3 2025: Pilot deployment and performance monitoring
 
 ---
