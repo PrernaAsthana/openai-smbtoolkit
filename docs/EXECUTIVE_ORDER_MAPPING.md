@@ -36,3 +36,9 @@ This document outlines how the OpenAI-SMBToolkit aligns with the priorities and 
 ---
 
 This mapping is included in support of a National Interest Waiver (NIW) petition to demonstrate direct alignment with U.S. federal AI priorities and responsible deployment principles.
+
+---
+
+## 📦 Execution Model Update
+
+This endeavor is being developed and deployed via a modular, public-facing infrastructure—shared through open GitHub repositories, policy-aligned documentation, and reproducible pilots targeting U.S.-based small and mid-sized enterprises. This structure enables broad collaboration, transparent impact, and scalability without being bound to any one employer or commercial interest.
