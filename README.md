@@ -48,6 +48,13 @@ Welcome to the **OpenAI-SMBToolkit**, an open-access initiative to empower U.S.-
   * Covariate balancing diagnostics
   * Power calculation and MDE visualizations
 
+### 📁 Notebooks
+
+- [🧪 Recommender System Demo](notebooks/demo_recommender_system.ipynb)
+- [🔍 Fraud Detection Simulation](notebooks/demo_fraud_detection.ipynb)
+- [📈 Uplift Modeling Demo](notebooks/demo_uplift_modeling.ipynb)
+
+
 ---
 
 ## 🏗 Deployment & Access
