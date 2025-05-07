@@ -70,7 +70,8 @@ All modules follow NIST AI RMF and FTC guidelines for trustworthy AI, including 
 ## 📫 Contact
 
 📬 Interested in piloting a module?  
-[👉 Fill out the pilot interest form]([https://forms.gle/x31BqHsqbebdkb859])
+[👉 Fill out the pilot interest form](https://forms.gle/x31BqHsqbebdkb859)
+
 
 
 **Lead Developer & Architect:** Prerna Asthana
